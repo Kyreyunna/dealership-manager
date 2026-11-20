@@ -1,6 +1,6 @@
 package com.pluralsight.dealershipmanager;
 
-import java.util.Scanner;
+import com.pluralsight.dealershipmanager.ui.UserInterface;
 
 public class Program {
     public static void main(String[] args) {
